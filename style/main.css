@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url(https://scontent-a.xx.fbcdn.net/hphotos-prn2/t31.0-8/1502678_10100298599491097_828497142_o.jpg);
+  background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tsinghua.edu.cn%2Fen%2Finfo%2F1245%2F9358.htm&psig=AOvVaw0FcxBfc9pKkSz-vksZCh-2&ust=1735365748071000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj0ja6jx4oDFQAAAAAdAAAAABAE);
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -21,7 +21,7 @@ html, body {
 h1.title {
   font-size: 64px;
   font-weight: bold;
-  color: #A31F34;
+  color: #660874;
   margin: 0;
   display: block;
   float: left; }
@@ -108,7 +108,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: #660874;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
